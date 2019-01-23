@@ -25,3 +25,12 @@
 ## [Scrum](https://github.com/huhsay/boostcamp3_archive/blob/master/scrum.md)
 
 아침 스크럼 기록입니다.
+
+
+
+## 온라인저장소
+
+[구글드라이브](https://drive.google.com/open?id=1JS9bZnT89KKW8Z1ORy2EOlQM2xTkZMT9)
+
+[트렐로](https://trello.com/boostcamp3)
+
