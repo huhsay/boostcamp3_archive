@@ -5,34 +5,52 @@
 
 
 
-## [Rules](https://github.com/huhsay/boostcamp3_archive/blob/master/rules.md)
+## 팀원
+
+* 이승우
+* 이화중 [Github](http://github.com/huhsay)
+* 원종성
+
+
+
+## 개발 문서
+
+### [Rules](https://github.com/huhsay/boostcamp3_archive/blob/master/rules.md)
 
 캠프를 진행하면서 팀원끼리 지켜야할 규칙을 정의하였습니다.
 
-
-
-## [Coding Convetion](https://github.com/huhsay/boostcamp3_archive/blob/master/codingConvention.md)
+### [Coding Convetion](https://github.com/huhsay/boostcamp3_archive/blob/master/codingConvention.md)
 
 코딩작업시 지켜야할 코딩 컨벤션입니다.
 
-
-
-## [Snippet](https://github.com/huhsay/boostcamp3_archive/blob/master/snippet.md)
+### [Snippet](https://github.com/huhsay/boostcamp3_archive/blob/master/snippet.md)
 
 오늘 한 일, 내일 할 일에 대한 기록입니다.
 
-
-
-## [Scrum](https://github.com/huhsay/boostcamp3_archive/blob/master/scrum.md)
+### [Scrum](https://github.com/huhsay/boostcamp3_archive/blob/master/scrum.md)
 
 아침 스크럼 기록입니다.
 
 
 
+
+
 ## 온라인저장소
 
-[구글드라이브](https://drive.google.com/open?id=1JS9bZnT89KKW8Z1ORy2EOlQM2xTkZMT9)
+### [구글드라이브](https://drive.google.com/open?id=1JS9bZnT89KKW8Z1ORy2EOlQM2xTkZMT9)
 
-[트렐로](https://trello.com/boostcamp3)
+### [트렐로-칸반](https://trello.com/boostcamp3)
 
 
+
+
+
+## 기획 문서
+
+### [기능정의서](https://github.com/huhsay/boostcamp3_archive/blob/master/%EA%B2%B0%EA%B3%BC%EB%AC%BC/%ea%b8%b0%eb%8a%a5%ec%a0%95%ec%9d%98%ec%84%9c%0d%0a.md)
+
+### 와이어프레임
+
+* [미리보기](https://xd.adobe.com/view/d7fae8a9-172e-452c-5092-d06b594e1a8d-a1cb/)
+
+* [전체화면](https://xd.adobe.com/spec/d34729d2-7312-4655-7430-36fbde0bfdc4-a576/)
