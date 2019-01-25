@@ -385,10 +385,10 @@ public static UserFragment newInstance(User user) {
 #### What
 
 - feat: 기능구현
-
 - add: 파일추가
 - style: 리소스 수정
 - doc: 문서 수정
+- fix: 오류수정
 
 
 
