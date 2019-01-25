@@ -1,0 +1,50 @@
+// Interface
+interface BaseView {
+    void makeToast(String message, int messageTime);
+}
+
+interface BasePresenter {
+    
+}
+
+
+// Room 을 실험적으로 사용해보기
+class RoomHelper {
+    
+}
+
+class HashTagParser {
+    
+}
+
+class SharedPrenferenceUtil {
+    
+}
+
+class NetworkStatusUtil {
+    
+}
+
+// DataModel
+class 일기데이터 {
+    int dailyIdx;           // DB 인덱스
+    int 내가 선택한 감정 번호  // 내가 선택한 감정 값
+    String recordFilePath;  // 파일 저장 경로
+    String recordDateTime;  // 저장 시각
+    String tags;            // 입력된 태그들
+	Double emotionScore;    // 계산된 감정 점수
+}
+
+class 메모리즈 {
+    int idx;              // DB 인덱스
+    String name;          // 메모리즈 카드 이름
+    List<일기데이터> items; // 일기목록 가지고 있으면 된다.
+}
+
+
+// SharedPreference
+static final int PREF_PASSWORD        // 비밀번호
+// static final int PREF_LAST_SYNCED  // 마지막 싱크 번호
+static final int PREF_PUSH_TIME       // 시간
+
+
