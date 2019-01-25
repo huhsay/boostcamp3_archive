@@ -331,7 +331,7 @@ public static UserFragment newInstance(User user) {
 
 ### Dimension
 
-- <WHERE>_<DESCRIPTION>_<WHAT>
+- \<WHERE>\_\<DESCRIPTION>_\<WHAT>
 
 - 대부분의 margin/padding 은 아래 정의된 space_xxx로만 사용되도록 한다.
 
@@ -370,15 +370,15 @@ public static UserFragment newInstance(User user) {
 
 ### Feature branch
 
-`feature_login`
+`feature_#000_login`
 
 
 
 ### commit
 
-- \<이슈번호>\_\<WAHT>\_\<DESC>
+- \<#이슈번호>\_\<What>_설명
 
-  `#12_feat_로그인`
+  `#012_feat_로그인`
 
  
 
@@ -397,8 +397,12 @@ public static UserFragment newInstance(User user) {
 - 라벨을 꼭 활용한다.
 - 리뷰어를 꼭 지정한다
 - 풀리퀘스트를 요청하기전에 충돌을 해결한다.
--  merge와 rebase를 개인판단에 따라 혼용한다.
+- 풀리퀘스트에는 이슈와 연결시킨다.
+  - `resolve #issue num`
+  - 리뷰에 답할때는 커밋 코드를 연결시킨다.
+- merge와 rebase를 개인판단에 따라 혼용한다.
 - PR을 Merge 할 때는 리뷰어 1명 이상이 리뷰를 해줘야 한다.
+- 본인 `PR`은 본인이 merge 한다.
 
 ```
 ## 개요
