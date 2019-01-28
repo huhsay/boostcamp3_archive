@@ -359,8 +359,14 @@ public static UserFragment newInstance(User user) {
 ### String
 
 - \<WHERE>\_\<DESCRIPTION>
-
 - 공통으로 사용한 String 의 경우엔 all\_\<DESCRIPTION>
+
+
+
+### Color
+
+- \<WHERE>\_\<COLOR>
+- 공통으로 사용한 Color 의 경우엔 all\_\<COLOR>
 
 
 

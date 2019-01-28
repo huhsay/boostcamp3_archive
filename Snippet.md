@@ -183,3 +183,51 @@
 - memorise fragment 화면
 - mvp 리사이클러뷰 공부
 - Room활용해서 리사이클러뷰
+
+
+
+### 20190128 Mon
+
+**원종성**
+
+[오늘 완료 업무]
+
+- DeepAffects API 적용 및 파싱 (추가 수정부분 존재)
+- 일기 녹음 화면 구성
+- 일기 녹음
+
+[ 내일 예정 업무 ]
+- DeepAffects API 파싱 보완
+- 일기탭 화면 구성
+- 일기 아이템 화면 구성
+- 공통으로 사용할 Room DB 설계
+
+
+
+**이승우**
+
+[오늘 완료 업무]
+- margin, padding 등 dimen 파일 설정
+- 그래프 라이브러리 mpandroidchart 사용
+- MVP 패턴 이해
+
+
+
+[내일 예정 업무]
+
+- 그래프 y 축 커스텀하기
+- 그래프 슬라이딩 구현하기
+- 해시태그 구성
+
+
+
+**이화중**
+
+[오늘 완료 업무]
+
+- memories fragment 화면
+
+[월요일 예정 업무]
+- cardview
+- recyclerView
+- room설계 (edited) 
