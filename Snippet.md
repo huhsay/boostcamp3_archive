@@ -285,3 +285,71 @@
 
 ### 20190130 Wed
 
+**원종성**
+
+[ 오늘 완료 업무 ]
+- DeepAffects API 파싱 완료
+- RoomDB 설계
+- Retrofit API 설계
+- 분석 결과 Mapping 알고리즘 구현
+- Emoji 클릭 애니메이션 구현
+
+[내일 예정 업무]
+- RoomDB 작성
+- 일기 아이템에 필요한 Query 작성
+- 일기 아이템 Layout 수정
+
+
+
+**이승우**
+
+[오늘 완료 업무]
+- 그래프 해시 태그 구현
+- 커스텀 ViewGroup 클래스 생성
+  [내일 예정 업무]
+- MVP 패턴 공부
+- 화면 수정하기
+- 그래프 데이터에 대한 Query 작성
+- Room 공부
+
+
+
+**이화중**
+
+[오늘 완료 업무]
+- playActivity xml
+- memories fragment refactoring
+- click event
+
+[내일 예정 업무]
+- adapter refectoring
+- Memories database 만들기
+- 추천 코드 작성
+
+
+
+### 20190131 Thu
+
+**원종성**
+
+
+
+**이승우**
+
+
+
+**이화중**
+
+[오늘 완료 업무]
+
+- Room 설계
+
+- 리스너 공부
+
+
+
+[내일 예정 업무]
+
+- Memory data 구현
+- Memories 추천 기능 구현 (데이터베이스 연동)
+- 레파지토리 패턴 공부

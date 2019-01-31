@@ -395,6 +395,7 @@ public static UserFragment newInstance(User user) {
 - style: 리소스 수정
 - doc: 문서 수정
 - fix: 오류수정
+- review: 리뷰후 수정
 
 
 
